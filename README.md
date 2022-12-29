@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Fullstack Developer/Web Design/AI)`**
 
-Welcome to my portfolio! My name is Egi Ramadhan and I am a full-stack developer with a passion for creating innovative and functional web applications. With a strong foundation in both frontend and backend development, I have the skills and knowledge to bring projects from concept to completion. My expertise in programming languages such as HTML, CSS, JavaScript and PHP allows me to design and implement the overall architecture of a web application, as well as create dynamic and interactive user experiences. I am constantly learning and staying up-to-date with the latest technologies and best practices in the field. As a full-stack developer, I have the ability to troubleshoot and solve complex technical issues, and am always looking for new challenges and opportunities to grow as a developer. Thank you for visiting my portfolio. I hope you enjoy exploring my work!
+Welcome to my portfolio! I am a full-stack developer with a passion for creating innovative and functional web applications. With a strong foundation in both frontend and backend development, I have the skills and knowledge to bring projects from concept to completion. My expertise in programming languages such as HTML, CSS, JavaScript and PHP allows me to design and implement the overall architecture of a web application, as well as create dynamic and interactive user experiences. I am constantly learning and staying up-to-date with the latest technologies and best practices in the field. As a full-stack developer, I have the ability to troubleshoot and solve complex technical issues, and am always looking for new challenges and opportunities to grow as a developer. Thank you for visiting my portfolio. I hope you enjoy exploring my work!
 
    <p align="left">
       <a href="https://github.com/egyramadhan?tab=followers">
@@ -45,7 +45,7 @@ Welcome to my portfolio! My name is Egi Ramadhan and I am a full-stack developer
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+<!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
 
 #
 
